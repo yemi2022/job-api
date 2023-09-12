@@ -10,7 +10,7 @@
       </div>
     </header>
    
-    <main class="mt-20 pt-14 pl-16 pb-8">
+    <main class="mt-20 pt-14 pl-16 pb-8 min-h-screen">
       <ul>
         <li v-for="job in jobs" :key="job._id" class="w-[90vw] mb-4 h-20 p-2 shadow bg-white flex">
           <div id="company-logo" class="w-14 h-12 mr-4">
