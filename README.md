@@ -1,4 +1,4 @@
-# shoeshop
+# IT job API
 
 ## Project setup
 ```
